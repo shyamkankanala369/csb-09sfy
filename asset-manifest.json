@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://shyamkankanala369.github.io/csb-09sfy/static/css/main.73e8547e.chunk.css",
-    "main.js": "https://shyamkankanala369.github.io/csb-09sfy/static/js/main.dc9db126.chunk.js",
-    "main.js.map": "https://shyamkankanala369.github.io/csb-09sfy/static/js/main.dc9db126.chunk.js.map",
+    "main.js": "https://shyamkankanala369.github.io/csb-09sfy/static/js/main.0c8f97bb.chunk.js",
+    "main.js.map": "https://shyamkankanala369.github.io/csb-09sfy/static/js/main.0c8f97bb.chunk.js.map",
     "runtime-main.js": "https://shyamkankanala369.github.io/csb-09sfy/static/js/runtime-main.a59e4a04.js",
     "runtime-main.js.map": "https://shyamkankanala369.github.io/csb-09sfy/static/js/runtime-main.a59e4a04.js.map",
     "static/js/2.1ce6d29e.chunk.js": "https://shyamkankanala369.github.io/csb-09sfy/static/js/2.1ce6d29e.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.a59e4a04.js",
     "static/js/2.1ce6d29e.chunk.js",
     "static/css/main.73e8547e.chunk.css",
-    "static/js/main.dc9db126.chunk.js"
+    "static/js/main.0c8f97bb.chunk.js"
   ]
 }
