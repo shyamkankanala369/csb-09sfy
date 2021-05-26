@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://shyamkankanala369.github.io/csb-09sfy/static/css/main.73e8547e.chunk.css",
+    "main.js": "https://shyamkankanala369.github.io/csb-09sfy/static/js/main.dc9db126.chunk.js",
+    "main.js.map": "https://shyamkankanala369.github.io/csb-09sfy/static/js/main.dc9db126.chunk.js.map",
+    "runtime-main.js": "https://shyamkankanala369.github.io/csb-09sfy/static/js/runtime-main.a59e4a04.js",
+    "runtime-main.js.map": "https://shyamkankanala369.github.io/csb-09sfy/static/js/runtime-main.a59e4a04.js.map",
+    "static/js/2.1ce6d29e.chunk.js": "https://shyamkankanala369.github.io/csb-09sfy/static/js/2.1ce6d29e.chunk.js",
+    "static/js/2.1ce6d29e.chunk.js.map": "https://shyamkankanala369.github.io/csb-09sfy/static/js/2.1ce6d29e.chunk.js.map",
+    "index.html": "https://shyamkankanala369.github.io/csb-09sfy/index.html",
+    "static/css/main.73e8547e.chunk.css.map": "https://shyamkankanala369.github.io/csb-09sfy/static/css/main.73e8547e.chunk.css.map",
+    "static/js/2.1ce6d29e.chunk.js.LICENSE.txt": "https://shyamkankanala369.github.io/csb-09sfy/static/js/2.1ce6d29e.chunk.js.LICENSE.txt",
+    "static/media/meme.0e1f7fd6.png": "https://shyamkankanala369.github.io/csb-09sfy/static/media/meme.0e1f7fd6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a59e4a04.js",
+    "static/js/2.1ce6d29e.chunk.js",
+    "static/css/main.73e8547e.chunk.css",
+    "static/js/main.dc9db126.chunk.js"
+  ]
+}
